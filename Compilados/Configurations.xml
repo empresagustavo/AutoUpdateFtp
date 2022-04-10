@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AutoUpdate>
+	<Projects>
+		<Project>
+			<Name>DiretorioDoProject1</Name>
+			<FtpFileVersion>/Project1/Version.txt</FtpFileVersion>
+			<FtpFileDownload>/Project1/Project1.zip</FtpFileDownload>
+			<LocalFileVersion>\DiretorioDoProject1\Sis.Cliente.exe</LocalFileVersion>
+		</Project>
+		<Project>
+			<Name>DiretorioDoProject2</Name>
+			<FtpFileVersion>/Project2/Version.txt</FtpFileVersion>
+			<FtpFileDownload>/Project2/Project2.zip</FtpFileDownload>
+			<LocalFileVersion>\DiretorioDoProject2\Sis.Cliente.exe</LocalFileVersion>
+		</Project>
+	</Projects>
+</AutoUpdate>
