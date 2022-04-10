@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AutoUpdate.Services.Models
+﻿namespace AutoUpdate.Services.Models
 {
     public class FtpCredentials
     {

@@ -1,11 +1,6 @@
 ﻿using AutoUpdate.Services.BLLs;
 using AutoUpdate.Services.Interfaces;
 using AutoUpdate.Services.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AutoUpdate.Services.Services
 {
